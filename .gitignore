@@ -1,0 +1,5 @@
+*.gbr
+*.drl
+fp-info-cache
+*-backups/
+*.lck
